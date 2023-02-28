@@ -1,0 +1,1791 @@
+[
+  {
+    "id": "1044355095694950490",
+    "type": 0,
+    "content": "\ud83e\udd37\u200d\u2642\ufe0f",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "646181897742843937",
+      "username": "Yato",
+      "avatar": "d78baa6cec15959346a6e45b4824b2b1",
+      "avatar_decoration": null,
+      "discriminator": "9532",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-21T20:54:17.993000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044346607518367805",
+    "type": 0,
+    "content": "\ud83d\udc4d",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "847624993999290448",
+      "username": "UnSkilled__",
+      "avatar": "0f5b65ae4720ba6c59d3305fb7071842",
+      "avatar_decoration": null,
+      "discriminator": "9896",
+      "public_flags": 4194560
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-21T20:20:34.254000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044346580293144657",
+    "type": 19,
+    "content": "nice ip",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "847624993999290448",
+      "username": "UnSkilled__",
+      "avatar": "0f5b65ae4720ba6c59d3305fb7071842",
+      "avatar_decoration": null,
+      "discriminator": "9896",
+      "public_flags": 4194560
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [
+      {
+        "id": "646181897742843937",
+        "username": "Yato",
+        "avatar": "d78baa6cec15959346a6e45b4824b2b1",
+        "avatar_decoration": null,
+        "discriminator": "9532",
+        "public_flags": 64
+      }
+    ],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-21T20:20:27.763000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "message_reference": {
+      "channel_id": "958116619706564668",
+      "guild_id": "949183273383395328",
+      "message_id": "1044098597823709274"
+    },
+    "referenced_message": {
+      "id": "1044098597823709274",
+      "type": 0,
+      "content": "My friend has a smp and he wants more people to join idk \n181.214.153.146:47966",
+      "channel_id": "958116619706564668",
+      "author": {
+        "id": "646181897742843937",
+        "username": "Yato",
+        "avatar": "d78baa6cec15959346a6e45b4824b2b1",
+        "avatar_decoration": null,
+        "discriminator": "9532",
+        "public_flags": 64
+      },
+      "attachments": [],
+      "embeds": [],
+      "mentions": [],
+      "mention_roles": [],
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "timestamp": "2022-11-21T03:55:04.135000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": []
+    }
+  },
+  {
+    "id": "1044098597823709274",
+    "type": 0,
+    "content": "My friend has a smp and he wants more people to join idk \n181.214.153.146:47966",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "646181897742843937",
+      "username": "Yato",
+      "avatar": "d78baa6cec15959346a6e45b4824b2b1",
+      "avatar_decoration": null,
+      "discriminator": "9532",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-21T03:55:04.135000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044048966548992040",
+    "type": 0,
+    "content": "Doesn\u2019t seem too different than what google patched",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-21T00:37:51.117000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044048875369021481",
+    "type": 0,
+    "content": "I think apple will just patch also",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-21T00:37:29.378000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044047609007964180",
+    "type": 0,
+    "content": "personally, i wouldn't let that slide",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "716104563236667445",
+      "username": "Luckstern",
+      "avatar": "0d54797d63d9542c5b66697cbc4b936a",
+      "avatar_decoration": null,
+      "discriminator": "0521",
+      "public_flags": 128
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-21T00:32:27.454000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044047417533792378",
+    "type": 19,
+    "content": "Nothing",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "864572010574118932",
+      "username": "bogotesr",
+      "avatar": "a1a0dc2d91937e5245596a607b9fcd49",
+      "avatar_decoration": null,
+      "discriminator": "8854",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [
+      {
+        "id": "716104563236667445",
+        "username": "Luckstern",
+        "avatar": "0d54797d63d9542c5b66697cbc4b936a",
+        "avatar_decoration": null,
+        "discriminator": "0521",
+        "public_flags": 128
+      }
+    ],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-21T00:31:41.803000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "message_reference": {
+      "channel_id": "958116619706564668",
+      "guild_id": "949183273383395328",
+      "message_id": "1044032727135043606"
+    },
+    "referenced_message": {
+      "id": "1044032727135043606",
+      "type": 0,
+      "content": "but what's apple gonna do",
+      "channel_id": "958116619706564668",
+      "author": {
+        "id": "716104563236667445",
+        "username": "Luckstern",
+        "avatar": "0d54797d63d9542c5b66697cbc4b936a",
+        "avatar_decoration": null,
+        "discriminator": "0521",
+        "public_flags": 128
+      },
+      "attachments": [],
+      "embeds": [],
+      "mentions": [],
+      "mention_roles": [],
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "timestamp": "2022-11-20T23:33:19.339000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": []
+    }
+  },
+  {
+    "id": "1044032727135043606",
+    "type": 0,
+    "content": "but what's apple gonna do",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "716104563236667445",
+      "username": "Luckstern",
+      "avatar": "0d54797d63d9542c5b66697cbc4b936a",
+      "avatar_decoration": null,
+      "discriminator": "0521",
+      "public_flags": 128
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T23:33:19.339000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044031734553006100",
+    "type": 0,
+    "content": "There are ways to get iMessage on android and google could implement that into android themselves. If everything goes through Google\u2019s rcs which is what google wants to happen then google has everything we say",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "864572010574118932",
+      "username": "bogotesr",
+      "avatar": "a1a0dc2d91937e5245596a607b9fcd49",
+      "avatar_decoration": null,
+      "discriminator": "8854",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T23:29:22.689000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044031306406842429",
+    "type": 19,
+    "content": "It\u2019s not going to happen",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "864572010574118932",
+      "username": "bogotesr",
+      "avatar": "a1a0dc2d91937e5245596a607b9fcd49",
+      "avatar_decoration": null,
+      "discriminator": "8854",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [
+      {
+        "id": "716104563236667445",
+        "username": "Luckstern",
+        "avatar": "0d54797d63d9542c5b66697cbc4b936a",
+        "avatar_decoration": null,
+        "discriminator": "0521",
+        "public_flags": 128
+      }
+    ],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T23:27:40.611000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "message_reference": {
+      "channel_id": "958116619706564668",
+      "guild_id": "949183273383395328",
+      "message_id": "1044027279854026752"
+    },
+    "referenced_message": {
+      "id": "1044027279854026752",
+      "type": 0,
+      "content": "https://youtube.com/shorts/a-El3Ych3hI?feature=share the battle has just begun!",
+      "channel_id": "958116619706564668",
+      "author": {
+        "id": "716104563236667445",
+        "username": "Luckstern",
+        "avatar": "0d54797d63d9542c5b66697cbc4b936a",
+        "avatar_decoration": null,
+        "discriminator": "0521",
+        "public_flags": 128
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=a-El3Ych3hI",
+          "title": "Google Hits Back at iMessage!",
+          "description": "Your move, Apple (they'll probably do nothing)",
+          "color": 16711680,
+          "author": {
+            "name": "Marques Brownlee",
+            "url": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+          },
+          "provider": { "name": "YouTube", "url": "https://www.youtube.com" },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/a-El3Ych3hI/maxresdefault.jpg",
+            "proxy_url": "https://images-ext-2.discordapp.net/external/mrMgd4JXfsO5BfeaEd9l0i-peXSLFtx6H3Sa5Pm3yTQ/https/i.ytimg.com/vi/a-El3Ych3hI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/a-El3Ych3hI",
+            "width": 405,
+            "height": 720
+          }
+        }
+      ],
+      "mentions": [],
+      "mention_roles": [],
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "timestamp": "2022-11-20T23:11:40.606000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": []
+    }
+  },
+  {
+    "id": "1044027317799878786",
+    "type": 0,
+    "content": "I really wanna see how this plays out",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "716104563236667445",
+      "username": "Luckstern",
+      "avatar": "0d54797d63d9542c5b66697cbc4b936a",
+      "avatar_decoration": null,
+      "discriminator": "0521",
+      "public_flags": 128
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T23:11:49.653000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044027279854026752",
+    "type": 0,
+    "content": "https://youtube.com/shorts/a-El3Ych3hI?feature=share the battle has just begun!",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "716104563236667445",
+      "username": "Luckstern",
+      "avatar": "0d54797d63d9542c5b66697cbc4b936a",
+      "avatar_decoration": null,
+      "discriminator": "0521",
+      "public_flags": 128
+    },
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=a-El3Ych3hI",
+        "title": "Google Hits Back at iMessage!",
+        "description": "Your move, Apple (they'll probably do nothing)",
+        "color": 16711680,
+        "author": {
+          "name": "Marques Brownlee",
+          "url": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+        },
+        "provider": { "name": "YouTube", "url": "https://www.youtube.com" },
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/a-El3Ych3hI/maxresdefault.jpg",
+          "proxy_url": "https://images-ext-2.discordapp.net/external/mrMgd4JXfsO5BfeaEd9l0i-peXSLFtx6H3Sa5Pm3yTQ/https/i.ytimg.com/vi/a-El3Ych3hI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "video": {
+          "url": "https://www.youtube.com/embed/a-El3Ych3hI",
+          "width": 405,
+          "height": 720
+        }
+      }
+    ],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T23:11:40.606000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044025198501974016",
+    "type": 19,
+    "content": "minecraft lore",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "847624993999290448",
+      "username": "UnSkilled__",
+      "avatar": "0f5b65ae4720ba6c59d3305fb7071842",
+      "avatar_decoration": null,
+      "discriminator": "9896",
+      "public_flags": 4194560
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [
+      {
+        "id": "376570937664995338",
+        "username": "spidy123222",
+        "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+        "avatar_decoration": null,
+        "discriminator": "6876",
+        "public_flags": 64
+      }
+    ],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T23:03:24.373000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "message_reference": {
+      "channel_id": "958116619706564668",
+      "guild_id": "949183273383395328",
+      "message_id": "1044024094720536576"
+    },
+    "referenced_message": {
+      "id": "1044024094720536576",
+      "type": 0,
+      "content": "Bro https://youtu.be/u3pJVHV0K6k",
+      "channel_id": "958116619706564668",
+      "author": {
+        "id": "376570937664995338",
+        "username": "spidy123222",
+        "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+        "avatar_decoration": null,
+        "discriminator": "6876",
+        "public_flags": 64
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=u3pJVHV0K6k",
+          "title": "Do NOT Play Disc 5, 11 and 13 together...",
+          "description": "I played Music Disc 5, 11 and 13 at the same time... it was cursed.\nSubscribe for a Diamond! \ud83d\udc8e\n\nDiscord Server - http://discord.gg/jveF64H\nMinecraft Server - beretmc.com\nTikTok - https://www.tiktok.com/@redberet_\nTwitter - https://twitter.com/redberet_\nTwitch - https://www.twitch.tv/redberet_\n\nMinecraft added its third mysterious music disc, Dis...",
+          "color": 16711680,
+          "author": {
+            "name": "Redberet",
+            "url": "https://www.youtube.com/channel/UC1mfoEsANEYpTqVRRaEsTtg"
+          },
+          "provider": { "name": "YouTube", "url": "https://www.youtube.com" },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/u3pJVHV0K6k/maxresdefault.jpg",
+            "proxy_url": "https://images-ext-2.discordapp.net/external/Hle6qvwU9Id6Oecl1OFto-Oh0goF6jsGF7m7s2sbEvk/https/i.ytimg.com/vi/u3pJVHV0K6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/u3pJVHV0K6k",
+            "width": 1280,
+            "height": 720
+          }
+        }
+      ],
+      "mentions": [],
+      "mention_roles": [],
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "timestamp": "2022-11-20T22:59:01.211000+00:00",
+      "edited_timestamp": null,
+      "flags": 1024,
+      "components": []
+    }
+  },
+  {
+    "id": "1044024094720536576",
+    "type": 0,
+    "content": "Bro https://youtu.be/u3pJVHV0K6k",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=u3pJVHV0K6k",
+        "title": "Do NOT Play Disc 5, 11 and 13 together...",
+        "description": "I played Music Disc 5, 11 and 13 at the same time... it was cursed.\nSubscribe for a Diamond! \ud83d\udc8e\n\nDiscord Server - http://discord.gg/jveF64H\nMinecraft Server - beretmc.com\nTikTok - https://www.tiktok.com/@redberet_\nTwitter - https://twitter.com/redberet_\nTwitch - https://www.twitch.tv/redberet_\n\nMinecraft added its third mysterious music disc, Dis...",
+        "color": 16711680,
+        "author": {
+          "name": "Redberet",
+          "url": "https://www.youtube.com/channel/UC1mfoEsANEYpTqVRRaEsTtg"
+        },
+        "provider": { "name": "YouTube", "url": "https://www.youtube.com" },
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/u3pJVHV0K6k/maxresdefault.jpg",
+          "proxy_url": "https://images-ext-2.discordapp.net/external/Hle6qvwU9Id6Oecl1OFto-Oh0goF6jsGF7m7s2sbEvk/https/i.ytimg.com/vi/u3pJVHV0K6k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "video": {
+          "url": "https://www.youtube.com/embed/u3pJVHV0K6k",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    ],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T22:59:01.211000+00:00",
+    "edited_timestamp": null,
+    "flags": 1024,
+    "components": []
+  },
+  {
+    "id": "1044018661112959028",
+    "type": 19,
+    "content": "yeah, gen 3 11\u201d pro",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "338322264011440128",
+      "username": "Willys_Jeep",
+      "avatar": "f4bda507e8f4c4868276e628280eb9b6",
+      "avatar_decoration": null,
+      "discriminator": "4060",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [
+      {
+        "id": "847624993999290448",
+        "username": "UnSkilled__",
+        "avatar": "0f5b65ae4720ba6c59d3305fb7071842",
+        "avatar_decoration": null,
+        "discriminator": "9896",
+        "public_flags": 4194560
+      }
+    ],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T22:37:25.738000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "message_reference": {
+      "channel_id": "958116619706564668",
+      "guild_id": "949183273383395328",
+      "message_id": "1044011628758302743"
+    },
+    "referenced_message": {
+      "id": "1044011628758302743",
+      "type": 19,
+      "content": "is it an m1 ipad?",
+      "channel_id": "958116619706564668",
+      "author": {
+        "id": "847624993999290448",
+        "username": "UnSkilled__",
+        "avatar": "0f5b65ae4720ba6c59d3305fb7071842",
+        "avatar_decoration": null,
+        "discriminator": "9896",
+        "public_flags": 4194560
+      },
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "338322264011440128",
+          "username": "Willys_Jeep",
+          "avatar": "f4bda507e8f4c4868276e628280eb9b6",
+          "avatar_decoration": null,
+          "discriminator": "4060",
+          "public_flags": 64
+        }
+      ],
+      "mention_roles": [],
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "timestamp": "2022-11-20T22:09:29.094000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "message_reference": {
+        "channel_id": "958116619706564668",
+        "guild_id": "949183273383395328",
+        "message_id": "1043999146899681481"
+      }
+    }
+  },
+  {
+    "id": "1044011889681780817",
+    "type": 0,
+    "content": "All rise for the Rust national anthem\nhttps://www.youtube.com/watch?v=LDU_Txk06tM",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "949184906892824616",
+      "username": "JitBot",
+      "avatar": "44ade260c9b312ef34c488639714eb2b",
+      "avatar_decoration": null,
+      "discriminator": "5454",
+      "public_flags": 0,
+      "bot": true
+    },
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=LDU_Txk06tM",
+        "title": "Noisestorm - Crab Rave [Monstercat Release]",
+        "description": "\ud83c\udfa7 Support on all platforms: https://Monstercat.lnk.to/CrabRave\n\nA huge shout out to Noisestorm whose artistry made this song and video possible - he produced it all! \ud83e\udd80\n\nEvery year after the most intense tropical storms, thousands of crabs gather on this remote island. Now for the first time, witness all the side-stepping, air-snapping action of ...",
+        "color": 16711680,
+        "author": {
+          "name": "Monstercat Instinct",
+          "url": "https://www.youtube.com/channel/UCp8OOssjSjGZRVYK6zWbNLg"
+        },
+        "provider": { "name": "YouTube", "url": "https://www.youtube.com" },
+        "thumbnail": {
+          "url": "https://i.ytimg.com/vi/LDU_Txk06tM/sddefault.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/alhpuJ41scUcH49JIZKbpnjKVDNokgM6klyU30zS0eI/https/i.ytimg.com/vi/LDU_Txk06tM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "video": {
+          "url": "https://www.youtube.com/embed/LDU_Txk06tM",
+          "width": 1280,
+          "height": 720
+        }
+      }
+    ],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T22:10:31.303000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044011889245569115",
+    "type": 0,
+    "content": "National anthem",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T22:10:31.199000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044011663331950699",
+    "type": 0,
+    "content": "thanks <@949184906892824616>",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "847624993999290448",
+      "username": "UnSkilled__",
+      "avatar": "0f5b65ae4720ba6c59d3305fb7071842",
+      "avatar_decoration": null,
+      "discriminator": "9896",
+      "public_flags": 4194560
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [
+      {
+        "id": "949184906892824616",
+        "username": "JitBot",
+        "avatar": "44ade260c9b312ef34c488639714eb2b",
+        "avatar_decoration": null,
+        "discriminator": "5454",
+        "public_flags": 0,
+        "bot": true
+      }
+    ],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T22:09:37.337000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044011630251475065",
+    "type": 0,
+    "content": "https://tenor.com/view/youre-welcome-gif-25058970",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "949184906892824616",
+      "username": "JitBot",
+      "avatar": "44ade260c9b312ef34c488639714eb2b",
+      "avatar_decoration": null,
+      "discriminator": "5454",
+      "public_flags": 0,
+      "bot": true
+    },
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "gifv",
+        "url": "https://tenor.com/view/youre-welcome-gif-25058970",
+        "provider": { "name": "Tenor", "url": "https://tenor.co" },
+        "thumbnail": {
+          "url": "https://media.tenor.com/Oj6i7LwJdlMAAAAD/youre-welcome.png",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/nVawQVlR3FVVf7H1ac1Pvg_YcCymbDbeIan-7daKWVg/https/media.tenor.com/Oj6i7LwJdlMAAAAD/youre-welcome.png",
+          "width": 640,
+          "height": 428
+        },
+        "video": {
+          "url": "https://media.tenor.com/Oj6i7LwJdlMAAAPo/youre-welcome.mp4",
+          "width": 640,
+          "height": 428,
+          "proxy_url": "https://images-ext-1.discordapp.net/external/UK9wK8Md5wzFenNOO9I8u6Xk9JiV7N8i69_e-sWdmTU/https/media.tenor.com/Oj6i7LwJdlMAAAPo/youre-welcome.mp4"
+        }
+      }
+    ],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T22:09:29.450000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1044011628758302743",
+    "type": 19,
+    "content": "is it an m1 ipad?",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "847624993999290448",
+      "username": "UnSkilled__",
+      "avatar": "0f5b65ae4720ba6c59d3305fb7071842",
+      "avatar_decoration": null,
+      "discriminator": "9896",
+      "public_flags": 4194560
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [
+      {
+        "id": "338322264011440128",
+        "username": "Willys_Jeep",
+        "avatar": "f4bda507e8f4c4868276e628280eb9b6",
+        "avatar_decoration": null,
+        "discriminator": "4060",
+        "public_flags": 64
+      }
+    ],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T22:09:29.094000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "message_reference": {
+      "channel_id": "958116619706564668",
+      "guild_id": "949183273383395328",
+      "message_id": "1043999146899681481"
+    },
+    "referenced_message": {
+      "id": "1043999146899681481",
+      "type": 0,
+      "content": "mk, i\u2019m trying to just fully replace my laptop with an ipad and use my pc when i\u2019m home but when i\u2019m away from home i\u2019d like to still be able to play some windows games",
+      "channel_id": "958116619706564668",
+      "author": {
+        "id": "338322264011440128",
+        "username": "Willys_Jeep",
+        "avatar": "f4bda507e8f4c4868276e628280eb9b6",
+        "avatar_decoration": null,
+        "discriminator": "4060",
+        "public_flags": 64
+      },
+      "attachments": [],
+      "embeds": [],
+      "mentions": [],
+      "mention_roles": [],
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "timestamp": "2022-11-20T21:19:53.187000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": []
+    }
+  },
+  {
+    "id": "1043999146899681481",
+    "type": 0,
+    "content": "mk, i\u2019m trying to just fully replace my laptop with an ipad and use my pc when i\u2019m home but when i\u2019m away from home i\u2019d like to still be able to play some windows games",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "338322264011440128",
+      "username": "Willys_Jeep",
+      "avatar": "f4bda507e8f4c4868276e628280eb9b6",
+      "avatar_decoration": null,
+      "discriminator": "4060",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T21:19:53.187000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043998906033393714",
+    "type": 0,
+    "content": "If on an iPad",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T21:18:55.760000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043998859640188969",
+    "type": 0,
+    "content": "Idk if UTM supports that",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T21:18:44.699000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043998855571718224",
+    "type": 0,
+    "content": "the latter would actually be optimal",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "338322264011440128",
+      "username": "Willys_Jeep",
+      "avatar": "f4bda507e8f4c4868276e628280eb9b6",
+      "avatar_decoration": null,
+      "discriminator": "4060",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T21:18:43.729000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043998755088777296",
+    "type": 0,
+    "content": "dual boot windows on an ipad with an external drive",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "338322264011440128",
+      "username": "Willys_Jeep",
+      "avatar": "f4bda507e8f4c4868276e628280eb9b6",
+      "avatar_decoration": null,
+      "discriminator": "4060",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T21:18:19.772000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043998675657035816",
+    "type": 0,
+    "content": "or just like",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "338322264011440128",
+      "username": "Willys_Jeep",
+      "avatar": "f4bda507e8f4c4868276e628280eb9b6",
+      "avatar_decoration": null,
+      "discriminator": "4060",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T21:18:00.834000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043998485520855071",
+    "type": 0,
+    "content": "anyone know if that\u2019s possible?",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "338322264011440128",
+      "username": "Willys_Jeep",
+      "avatar": "f4bda507e8f4c4868276e628280eb9b6",
+      "avatar_decoration": null,
+      "discriminator": "4060",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T21:17:15.502000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043998456827609280",
+    "type": 0,
+    "content": "i want to have a few windows games and be able to use them on my ipad but i would want the like 40gb of game files to be on an external drive",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "338322264011440128",
+      "username": "Willys_Jeep",
+      "avatar": "f4bda507e8f4c4868276e628280eb9b6",
+      "avatar_decoration": null,
+      "discriminator": "4060",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T21:17:08.661000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043998268591444098",
+    "type": 0,
+    "content": "does anyone know if you can like use UTM and run windows off of an external drive?",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "338322264011440128",
+      "username": "Willys_Jeep",
+      "avatar": "f4bda507e8f4c4868276e628280eb9b6",
+      "avatar_decoration": null,
+      "discriminator": "4060",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T21:16:23.782000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043979570916905051",
+    "type": 0,
+    "content": "Requires paid developer account if not jailbroken",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T20:02:05.909000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043979457452589257",
+    "type": 0,
+    "content": "You should have fastmem so to get good performance",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T20:01:38.857000+00:00",
+    "edited_timestamp": "2022-11-20T20:01:50.514000+00:00",
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043979386438811730",
+    "type": 0,
+    "content": "This via dolphiniOS?",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T20:01:21.926000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043979368059392120",
+    "type": 0,
+    "content": "Not sure",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T20:01:17.544000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043979092179038228",
+    "type": 0,
+    "content": "Do you think metal gear solid the twin snakes is playable on an iphone 7",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "994256153146040420",
+      "username": "Aj(\u0639\u0628\u062f \u0627\u0644\u062c\u0644\u064a\u0644)",
+      "avatar": "7aa62bacfbffa403bb0cfdd63bf3ee45",
+      "avatar_decoration": null,
+      "discriminator": "0062",
+      "public_flags": 256
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T20:00:11.769000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043932582443749396",
+    "type": 0,
+    "content": "Writing a ping command for a discord bot in lua could not be harder",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "864572010574118932",
+      "username": "bogotesr",
+      "avatar": "a1a0dc2d91937e5245596a607b9fcd49",
+      "avatar_decoration": null,
+      "discriminator": "8854",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T16:55:22.984000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043853792724140142",
+    "type": 0,
+    "content": "So that wont happen",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "725038102615293982",
+      "username": "Ted.",
+      "avatar": "927ed5cacd2a92130f8ef0a9b8915ba4",
+      "avatar_decoration": null,
+      "discriminator": "6557",
+      "public_flags": 256
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T11:42:18.051000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043853783173713981",
+    "type": 19,
+    "content": "Its not a jb tweak",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "725038102615293982",
+      "username": "Ted.",
+      "avatar": "927ed5cacd2a92130f8ef0a9b8915ba4",
+      "avatar_decoration": null,
+      "discriminator": "6557",
+      "public_flags": 256
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [
+      {
+        "id": "555101755025784833",
+        "username": "__$",
+        "avatar": "87fadba84d6c49e64b10e555a74c456c",
+        "avatar_decoration": null,
+        "discriminator": "1224",
+        "public_flags": 0
+      }
+    ],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T11:42:15.774000+00:00",
+    "edited_timestamp": "2022-11-20T11:42:26.678000+00:00",
+    "flags": 0,
+    "components": [],
+    "message_reference": {
+      "channel_id": "958116619706564668",
+      "guild_id": "949183273383395328",
+      "message_id": "1043840849613684846"
+    },
+    "referenced_message": {
+      "id": "1043840849613684846",
+      "type": 19,
+      "content": "Find a way to trick the other phone of thinking it\u2019s a different device? Idk",
+      "channel_id": "958116619706564668",
+      "author": {
+        "id": "555101755025784833",
+        "username": "__$",
+        "avatar": "87fadba84d6c49e64b10e555a74c456c",
+        "avatar_decoration": null,
+        "discriminator": "1224",
+        "public_flags": 0
+      },
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "725038102615293982",
+          "username": "Ted.",
+          "avatar": "927ed5cacd2a92130f8ef0a9b8915ba4",
+          "avatar_decoration": null,
+          "discriminator": "6557",
+          "public_flags": 256
+        }
+      ],
+      "mention_roles": [],
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "timestamp": "2022-11-20T10:50:52.173000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "message_reference": {
+        "channel_id": "958116619706564668",
+        "guild_id": "949183273383395328",
+        "message_id": "1043585062890913793"
+      }
+    }
+  },
+  {
+    "id": "1043840849613684846",
+    "type": 19,
+    "content": "Find a way to trick the other phone of thinking it\u2019s a different device? Idk",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "555101755025784833",
+      "username": "__$",
+      "avatar": "87fadba84d6c49e64b10e555a74c456c",
+      "avatar_decoration": null,
+      "discriminator": "1224",
+      "public_flags": 0
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [
+      {
+        "id": "725038102615293982",
+        "username": "Ted.",
+        "avatar": "927ed5cacd2a92130f8ef0a9b8915ba4",
+        "avatar_decoration": null,
+        "discriminator": "6557",
+        "public_flags": 256
+      }
+    ],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T10:50:52.173000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": [],
+    "message_reference": {
+      "channel_id": "958116619706564668",
+      "guild_id": "949183273383395328",
+      "message_id": "1043585062890913793"
+    },
+    "referenced_message": {
+      "id": "1043585062890913793",
+      "type": 19,
+      "content": "How do you bypass something that isnt your device \ud83d\udc80",
+      "channel_id": "958116619706564668",
+      "author": {
+        "id": "725038102615293982",
+        "username": "Ted.",
+        "avatar": "927ed5cacd2a92130f8ef0a9b8915ba4",
+        "avatar_decoration": null,
+        "discriminator": "6557",
+        "public_flags": 256
+      },
+      "attachments": [],
+      "embeds": [],
+      "mentions": [
+        {
+          "id": "555101755025784833",
+          "username": "__$",
+          "avatar": "87fadba84d6c49e64b10e555a74c456c",
+          "avatar_decoration": null,
+          "discriminator": "1224",
+          "public_flags": 0
+        }
+      ],
+      "mention_roles": [],
+      "pinned": false,
+      "mention_everyone": false,
+      "tts": false,
+      "timestamp": "2022-11-19T17:54:27.866000+00:00",
+      "edited_timestamp": null,
+      "flags": 0,
+      "components": [],
+      "message_reference": {
+        "channel_id": "958116619706564668",
+        "guild_id": "949183273383395328",
+        "message_id": "1043581814427623434"
+      }
+    }
+  },
+  {
+    "id": "1043688953020157992",
+    "type": 0,
+    "content": "Just a warning about r/Sideloaded, someone let me know there\u2019s been a bit of drama around it: https://forum.starfiles.co/d/35-signtunes-current-situation",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "672897428470366208",
+      "username": "JJTech",
+      "avatar": "b1e5f77f6e96740ef8e02a163023f471",
+      "avatar_decoration": null,
+      "discriminator": "9797",
+      "public_flags": 128
+    },
+    "attachments": [],
+    "embeds": [
+      {
+        "type": "article",
+        "url": "https://forum.starfiles.co/d/35-signtunes-current-situation",
+        "title": "Signtunes' Current Situation",
+        "description": "If you\u2019re reading this, you probably got sent here from Signtunes. This post explains the current situation with Signtunes & r/Sideloaded, this will expl...",
+        "color": 6011605,
+        "provider": { "name": "Starfiles Forum" },
+        "thumbnail": {
+          "url": "https://forum.starfiles.co/assets/files/2022-07-20/1658310385-899195-img-4420.jpg",
+          "proxy_url": "https://images-ext-1.discordapp.net/external/u7QomztDTMXmBffuu-HIEi3hztedSVRW8lpVji-TAmk/https/forum.starfiles.co/assets/files/2022-07-20/1658310385-899195-img-4420.jpg",
+          "width": 1056,
+          "height": 1925
+        }
+      }
+    ],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T00:47:17.203000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043687488549552198",
+    "type": 0,
+    "content": "Yeah",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "864572010574118932",
+      "username": "bogotesr",
+      "avatar": "a1a0dc2d91937e5245596a607b9fcd49",
+      "avatar_decoration": null,
+      "discriminator": "8854",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T00:41:28.046000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043687316553744434",
+    "type": 0,
+    "content": "<@864572010574118932> you can add it just stick to the format.",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [
+      {
+        "id": "864572010574118932",
+        "username": "bogotesr",
+        "avatar": "a1a0dc2d91937e5245596a607b9fcd49",
+        "avatar_decoration": null,
+        "discriminator": "8854",
+        "public_flags": 64
+      }
+    ],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T00:40:47.039000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043687248811544607",
+    "type": 0,
+    "content": "lol maybe",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "716104563236667445",
+      "username": "Luckstern",
+      "avatar": "0d54797d63d9542c5b66697cbc4b936a",
+      "avatar_decoration": null,
+      "discriminator": "0521",
+      "public_flags": 128
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T00:40:30.888000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043687212820205688",
+    "type": 0,
+    "content": "I\u2019m blind I guess XD",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T00:40:22.307000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043687171447603233",
+    "type": 0,
+    "content": "it's fine",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "716104563236667445",
+      "username": "Luckstern",
+      "avatar": "0d54797d63d9542c5b66697cbc4b936a",
+      "avatar_decoration": null,
+      "discriminator": "0521",
+      "public_flags": 128
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T00:40:12.443000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043687145090600990",
+    "type": 0,
+    "content": "Sorry",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T00:40:06.159000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043687144834748536",
+    "type": 0,
+    "content": "",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "716104563236667445",
+      "username": "Luckstern",
+      "avatar": "0d54797d63d9542c5b66697cbc4b936a",
+      "avatar_decoration": null,
+      "discriminator": "0521",
+      "public_flags": 128
+    },
+    "attachments": [
+      {
+        "id": "1043687144490799164",
+        "filename": "image.png",
+        "size": 29552,
+        "url": "https://cdn.discordapp.com/attachments/958116619706564668/1043687144490799164/image.png",
+        "proxy_url": "https://media.discordapp.net/attachments/958116619706564668/1043687144490799164/image.png",
+        "width": 512,
+        "height": 208,
+        "content_type": "image/png"
+      }
+    ],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T00:40:06.098000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043687139021426691",
+    "type": 0,
+    "content": "Oh I see",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T00:40:04.712000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043687086278049853",
+    "type": 0,
+    "content": "I don\u2019t see it in there",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "376570937664995338",
+      "username": "spidy123222",
+      "avatar": "63e1c84e9c2ac12a2f06a34116f0bd21",
+      "avatar_decoration": null,
+      "discriminator": "6876",
+      "public_flags": 64
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T00:39:52.137000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  },
+  {
+    "id": "1043687053264695316",
+    "type": 0,
+    "content": "the altstore / delta server is there...",
+    "channel_id": "958116619706564668",
+    "author": {
+      "id": "716104563236667445",
+      "username": "Luckstern",
+      "avatar": "0d54797d63d9542c5b66697cbc4b936a",
+      "avatar_decoration": null,
+      "discriminator": "0521",
+      "public_flags": 128
+    },
+    "attachments": [],
+    "embeds": [],
+    "mentions": [],
+    "mention_roles": [],
+    "pinned": false,
+    "mention_everyone": false,
+    "tts": false,
+    "timestamp": "2022-11-20T00:39:44.266000+00:00",
+    "edited_timestamp": null,
+    "flags": 0,
+    "components": []
+  }
+]

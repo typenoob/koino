@@ -1,10 +1,78 @@
+@import url("https://fonts.googleapis.com/css?family=Alata");
+@import url("https://fonts.googleapis.com/css?family=Cabin");
+#root {
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+svg {
+  display: block;
+}
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: rgb(137, 139, 142);
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.scrollable::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* make scrollbar transparent */
+}
+.scroll-container::-webkit-scrollbar {
+  width: 14px;
+}
+.scroll-container::-webkit-scrollbar-thumb {
+  border: 3px solid rgba(0, 0, 0, 0);
+  background: hsl(216, calc(1 * 7.2%), 13.5%);
+  background-clip: padding-box;
+  border-radius: 999px;
+}
+.scroll-container::-webkit-scrollbar-track {
+  border: 3px solid rgba(0, 0, 0, 0);
+  background: hsl(210, calc(1 * 9.8%), 20%);
+  background-clip: padding-box;
+  border-radius: 999px;
+}
+.scroll-container::-webkit-scrollbar-corner {
+  background: hsl(216, calc(1 * 7.2%), 13.5%);
+  border-radius: 5px;
+}
+.member-pannel::-webkit-scrollbar {
+  width: 10px;
+  height: 8px;
+}
+.member-pannel::-webkit-scrollbar-thumb {
+  border: 3px solid rgba(0, 0, 0, 0);
+  background: hsl(216, calc(1 * 7.2%), 13.5%);
+  background-clip: padding-box;
+  border-radius: 999px;
+}
+.member-pannel::-webkit-scrollbar-track {
+  border: 3px solid rgba(0, 0, 0, 0);
+  background: hsl(210, calc(1 * 9.8%), 20%);
+  background-clip: padding-box;
+  border-radius: 999px;
+}
+.member-pannel::-webkit-scrollbar-corner {
+  background: transparent;
+}
+@keyframes wiggle {
+  0% {
+    transform: rotate(0deg);
+  }
+  80% {
+    transform: rotate(0deg);
+  }
+  85% {
+    transform: rotate(5deg);
+  }
+  95% {
+    transform: rotate(-5deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
 }
